@@ -1,0 +1,11 @@
+{
+  "itemGroup.advanced_spellbooks_tab": "Advanced Spellbooks",
+  "item.advancedspellbooks.hex_caster_spellbook": "Hex Caster's Spellbook",
+  "item.advancedspellbooks.hex_editor_spellbook": "Hex Editor's Spellbook",
+
+  "advancedspellbooks.entry.name": "Better Spellbooks",
+  "advancedspellbooks.page.text": "While $(l:hexcasting:items/spellbook)spellbooks() are a great way to store Iota, they are kinda limiting. Drawing patterns for loading/saving is getting... cumbersome for me. Some slight modification would be a huge time saver.",
+
+  "advancedspellbooks.page.caster.text": "A $(item)caster spellbook$() can - as its name suggests - cast the spell recorded on the selected page when used. These are not as fast as trinkets alike, but is easily edited. This would use media from my inventory like a wand. It can only cast a single pattern or a list Iota.", 
+  "advancedspellbooks.page.editor.text": "A $(item)editor spellbook$() is a handy addition when editing spells. Using it will add the Iota on the selected page into my stack for later use."
+}

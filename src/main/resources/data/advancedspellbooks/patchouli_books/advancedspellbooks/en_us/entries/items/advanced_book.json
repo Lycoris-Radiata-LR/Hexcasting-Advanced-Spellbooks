@@ -1,0 +1,33 @@
+{
+    "name": "advancedspellbooks.entry.name",
+    "icon": "advancedspellbooks:hex_caster_spellbook",
+    "category": "hexcasting:items",
+    "sortnum": 5,
+    "advancement": "hexcasting:root",
+    "pages": [
+      {
+        "type": "patchouli:text",
+        "text": "advancedspellbooks.page.text"
+      },
+      {
+        "type": "patchouli:spotlight",
+        "text": "advancedspellbooks.page.caster.text",
+        "item": "advancedspellbooks:hex_caster_spellbook",
+        "link_recipe": true
+      },
+      {
+        "type": "patchouli:spotlight",
+        "text": "advancedspellbooks.page.editor.text",
+        "item": "advancedspellbooks:hex_editor_spellbook",
+        "link_recipe": true
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "advancedspellbooks:upgrade_caster_book"
+      },
+      {
+        "type": "patchouli:crafting",
+        "recipe": "advancedspellbooks:upgrade_editor_book"
+      }
+    ]
+}

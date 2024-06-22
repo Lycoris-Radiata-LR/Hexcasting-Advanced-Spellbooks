@@ -1,0 +1,10 @@
+{
+  "itemGroup.advanced_spellbooks_tab": "更好的法术书",
+  "item.advancedspellbooks.hex_caster_spellbook": "施法者的法术书",
+  "item.advancedspellbooks.hex_editor_spellbook": "编撰者的法术书",
+
+  "advancedspellbooks.entry.name": "更好的法术书",
+  "advancedspellbooks.page.text": "$(l:hexcasting:items/spellbook)法术书$()虽是不错的Iota存储媒介，却有其自身的局限性。每次不得不绘制那读取写入的图案都让我的心情更加烦躁。但我大抵可以对其稍作修改以节省时间。",
+  "advancedspellbooks.page.caster.text": "正如其名，$(item)施法者法术书$() 能够代替法杖引导媒质。我可以直接右键使用它来施放$(thing)列表Iota$()或$(thing)图案Iota$()。其上的媒质流动不如造物之类那般顺畅快速，但在编撰时用于调试却也足矣。它和法杖一样使用我身上的媒质。",
+  "advancedspellbooks.page.editor.text": "$(item)编撰者法术书$()能让我更快捷的编写法术。使用它便能直接将其上记录的Iota压入栈顶。"
+}

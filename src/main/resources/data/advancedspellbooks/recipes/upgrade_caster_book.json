@@ -1,0 +1,28 @@
+{
+  "type": "advancedspellbooks:upgrade_spell_book",
+  "key": {
+    "X": {
+      "item": "hexcasting:spellbook"
+    },
+    "C": {
+      "item": "hexcasting:charged_amethyst"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    " C ",
+    "PXP",
+    " D "
+  ],
+  "result": {
+    "item": "advancedspellbooks:hex_caster_spellbook"
+  },
+  "upgradeFrom": {
+    "item": "hexcasting:spellbook"
+  }
+}

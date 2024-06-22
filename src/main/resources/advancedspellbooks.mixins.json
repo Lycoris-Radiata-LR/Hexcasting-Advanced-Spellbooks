@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.lycoris_systems.advancedspellbooks.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "refmap": "AdvancedSpellbooks.refmap.json",
+  "mixins": [
+    "MixinHexcastingIsScrollableInvoker",
+    "MixinHexcastingScrollHandler",
+    "MixinHexcastingScrollItem",
+    "MixinHexcastingShiftScrollSyn",
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
