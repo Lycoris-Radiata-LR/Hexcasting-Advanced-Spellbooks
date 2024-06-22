@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "advancedspellbooks:hex_caster_spellbook",
+    "advancedspellbooks:hex_editor_spellbook"
+  ]
+}
