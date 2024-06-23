@@ -4,7 +4,7 @@ This is an addon for [Hex Casting](https://www.curseforge.com/minecraft/mc-mods/
 
 这是[咒法学](https://www.curseforge.com/minecraft/mc-mods/hexcasting)的Forge 1.19.2附属。
 
-### Purpose 作用
+### Purpuse 作用
 
 This mod adds 2 spellbooks for Hex Casting, one can be used to directly cast a list of Iota, the other can add Iotas to the current casting stack.
 
